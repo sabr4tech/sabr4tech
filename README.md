@@ -27,46 +27,6 @@ SABR4TECH is a technology company dedicated to designing, developing, and mainta
 
 ---
 
-## 🛠️ Technologies
-
-### Frontend
-
-* React
-* Next.js
-* TypeScript
-* Tailwind CSS
-
-### Backend
-
-* Node.js
-* NestJS
-* Express
-* FastAPI
-
-### Databases
-
-* PostgreSQL
-* MySQL
-* MongoDB
-* Redis
-
-### Cloud & DevOps
-
-* Docker
-* GitHub Actions
-* AWS
-* Azure
-* Linux
-
-### Tools
-
-* Git
-* Figma
-* Postman
-* Prisma
-
----
-
 ## 🎯 Our Mission
 
 To build technology that is:
@@ -105,7 +65,7 @@ We believe in contributing to the developer community through open-source projec
 ## 📫 Connect With Us
 
 
-* Email: [contact@sabr4tech.com](mailto:contact@sabr4tech.com)
+* Email: (mailto:sabr4tech@gmail.com)
 
 ---
 
