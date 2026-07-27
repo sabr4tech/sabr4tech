@@ -26,19 +26,6 @@ SABR4TECH is a technology company dedicated to designing, developing, and mainta
 
 ---
 
-
-
-## 🤝 Core Values
-
-* Excellence
-* Integrity
-* Innovation
-* Continuous Learning
-* Collaboration
-* Responsibility
-
----
-
 ## 📫 Connect With Us
 
 
