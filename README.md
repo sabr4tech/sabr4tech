@@ -26,23 +26,7 @@ SABR4TECH is a technology company dedicated to designing, developing, and mainta
 
 ---
 
-## 🎯 Our Mission
 
-To build technology that is:
-
-* Reliable
-* Secure
-* Scalable
-* Innovative
-* User-Centered
-
----
-
-## 👁️ Vision
-
-To become a globally recognized technology company that creates products inspiring innovation and making technology more accessible.
-
----
 
 ## 🤝 Core Values
 
@@ -52,12 +36,6 @@ To become a globally recognized technology company that creates products inspiri
 * Continuous Learning
 * Collaboration
 * Responsibility
-
----
-
-## 🌱 Open Source
-
-We believe in contributing to the developer community through open-source projects, technical articles, and educational resources.
 
 ---
 
