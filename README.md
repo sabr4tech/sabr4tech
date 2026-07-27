@@ -16,14 +16,13 @@ SABR4TECH is a technology company dedicated to designing, developing, and mainta
 
 * 🌐 Web Application Development
 * 📱 Mobile Application Development
-* 🤖 Artificial Intelligence & Machine Learning
 * ☁️ Cloud Solutions
 * 🔐 Cybersecurity Solutions
 * ⚙️ Backend & API Development
 * 🎨 UI/UX Design
 * 📊 Data Engineering & Analytics
 * 🚗 Automotive Technology & Reviews
-* 🎥 Technology Content & Events
+
 
 ---
 
